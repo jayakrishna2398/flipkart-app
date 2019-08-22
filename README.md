@@ -16,12 +16,12 @@ select * from books_names;
 
 #### List all books_names - order by asc
 
-...
+`
 select * from books_names order by asc;
-...
+`
 
 #### List all books_names - order by desc
 
-...
+`
 select*from books_names order by desc;
-...
+`

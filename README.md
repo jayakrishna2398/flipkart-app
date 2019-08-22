@@ -10,4 +10,4 @@
 | 3 | c | 300 | Technical based | 3 | 5/01/18 |
 ### List All Books
 
-select * from books_names;
+select * from books;

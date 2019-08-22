@@ -36,5 +36,4 @@ select * from books_names where range between range >= 300 and range <= 450;
 
 `
 select * from books_names where range <=500 ;
-
 `

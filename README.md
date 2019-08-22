@@ -25,3 +25,10 @@ select * from books_names order by asc;
 `
 select*from books_names order by desc;
 `
+
+#### List all books_names - where range between 
+
+`
+select*from books_names where range between 300 and 450;
+
+`

@@ -10,9 +10,9 @@
 | 3 | c | 300 | Technical based | 3 | 25/02/18 |
 #### List All Books
 
-..
+`
 select * from books_names;
-..
+`
 
 #### List all books_names - order by asc
 

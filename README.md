@@ -26,7 +26,7 @@ select * from books_names order by asc;
 select*from books_names order by desc;
 `
 
-#### Feature 4: Arrange books_names range between range>=300  and range <= 450
+#### Feature 4: Arrange books_names range between range>=?  and range <= ?
 
 `
 select * from books_names where range between range >= 300 and range <= 450;

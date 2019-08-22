@@ -10,4 +10,6 @@
 |3|c| Technical based|3|5/01/18|
 ### List All Books
 
-select * from books;
+select * from books_names
+from Name
+order by Rating(asc);
